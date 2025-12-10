@@ -119,8 +119,11 @@ Proyek ini menggunakan lisensi MIT bebas digunakan & dimodifikasi.
 
 ## 💖 Creator
 Dibuat dengan cinta oleh Lutfifakee
+
 Website: https://lutfifakee.top/
+
 Instagram: https://www.instagram.com/lutfifakee/
+
 Team: https://www.instagram.com/padangblackhat.id/
 
 ## ⭐ Beri Star!
