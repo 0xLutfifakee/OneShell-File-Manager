@@ -30,6 +30,14 @@
 
 ---
 
+## 🧸 Tema Sakura Kawaii
+OneShell dibuat dengan nuansa:
+ - warna pink lembut
+ - bunga sakura
+ - font anime-style
+ - animasi soft glow
+UI ini membuat file manager tidak hanya berguna tetapi menyenangkan digunakan 🌸
+
 ## 📁 Manajemen File
 
 Semua operasi file tersedia:
@@ -81,14 +89,30 @@ git clone https://github.com/0xLutfifakee/OneShell-File-Manager
  - Password tambahan
  - Proteksi IP whitelist
 
+## 📁 Project Structure
+```oneshell/
+├── 📄 index.php          # Main interface
+├── 🔧 actions.php        # Backend processor
+├── 📚 functions.php      # Helper functions
+├── ⚙️ config.php         # Configuration
+├── 🎨 style.css          # Stylesheet
+├── 💻 functions.js       # JavaScript
+├── 📂 uploads/           # Upload directory
+├── 💾 backups/           # Backup directory
+├── 📖 README.md          # Documentation
+├── 🔒 .htaccess          # Security (optional)
+└── 📄 LICENSE            # MIT License
+```
 
-## 🧸 Tema Sakura Kawaii
-OneShell dibuat dengan nuansa:
- - warna pink lembut
- - bunga sakura
- - font anime-style
- - animasi soft glow
-UI ini membuat file manager tidak hanya berguna tetapi menyenangkan digunakan 🌸
+File Descriptions
+File	Description
+index.php	Main user interface
+actions.php	Handles all file operations
+functions.php	Utility functions and helpers
+config.php	Configuration settings
+style.css	CSS styles and theming
+functions.js	JavaScript functionality
+
 
 ## 📜 Lisensi
 Proyek ini menggunakan lisensi MIT bebas digunakan & dimodifikasi.
