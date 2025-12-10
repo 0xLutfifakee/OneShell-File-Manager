@@ -104,15 +104,15 @@ git clone https://github.com/0xLutfifakee/OneShell-File-Manager
 └── 📄 LICENSE            # MIT License
 ```
 
-File Descriptions
-File	Description
+## File Descriptions
+```File	Description
 index.php	Main user interface
 actions.php	Handles all file operations
 functions.php	Utility functions and helpers
 config.php	Configuration settings
 style.css	CSS styles and theming
 functions.js	JavaScript functionality
-
+```
 
 ## 📜 Lisensi
 Proyek ini menggunakan lisensi MIT bebas digunakan & dimodifikasi.
